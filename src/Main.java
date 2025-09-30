@@ -3,7 +3,7 @@ public class Main {
     public static void main (String[]args){
 
         String [] marca =  {"Mercedes","Opel","Ford", "Yamaha"};
-        String [] modelo = {"A1", };
+        String [] modelo = {"A1", "Corsa", "Focus","MT-07"};
         int NI =1;
         String [] Cor = {"Cinza", "Vermelho", "Cinza", "Preto"};
         double [] cilindrada = {2.0,1.6,2.0,0.7};
